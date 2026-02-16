@@ -1,10 +1,22 @@
-title: PixRuntime Spec
-description: Specification for the Pix Runtime
+title: prtvm Spec
+tagline: "Specification for the PRTVM"
+description: Specification for the PRTVM
 theme: just-the-docs
+baseurl: ""
 
-url: https://OfficialPixelBrush.github.io
-baseurl: /PixRuntime
+url: https://OfficialPixelBrush.github.io/prtvm
 
 color_scheme: dark
+sass:
+  style: compressed
+
+gh_edit_link: true
+gh_edit_link_text: "✏️ Edit this page on GitHub."
+gh_edit_branch: "main"
+gh_edit_repository: "https://github.com/OfficialPixelBrush/prtvm"
+gh_edit_view_mode: "edit"
 
 search_enabled: true
+
+back_to_top: true
+back_to_top_text: "Back to top"

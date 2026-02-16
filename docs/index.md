@@ -4,6 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# PixRuntime Spec
+# prtvm Spec
 
-Specification for the Pix Runtime
+Specification for the prtvm
